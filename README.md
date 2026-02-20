@@ -223,8 +223,6 @@ Feel free to reach out if you have questions or suggestions!
 
 ## Final Thoughts
 
-This was my biggest project so far. Took me about 8-10 hours total, spread over a few days. The data cleaning alone took half the time!
-
 If you're learning ML, I highly recommend building something like this. Working with real messy data teaches you way more than clean Kaggle competitions.
 
 **If you found this useful, drop a star!** It really motivates me to build more stuff.
@@ -233,4 +231,4 @@ If you're learning ML, I highly recommend building something like this. Working 
 
 **Last updated:** February 2026
 
-Built this to learn, share, and hopefully help someone make a better car-buying decision someday! 🚗💰
+Built this to learn, share, and hopefully help someone make a better car-buying decision someday! 
