@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction
+# Car Price Prediction
 
 A machine learning project I built to predict used car prices in India. This was a fun challenge to work with real-world messy data!
 
