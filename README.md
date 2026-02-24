@@ -32,7 +32,7 @@ car-price-prediction/
 
 ## The Dataset
 
-I worked with data from 5,050 used cars listed in India. The dataset had:
+I worked with data from 5,050 used cars listed in India. The dataset 
 
 - Car brand and model
 - Year (which I had to extract from the model name - that was tricky!)
