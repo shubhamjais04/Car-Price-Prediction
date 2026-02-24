@@ -41,7 +41,7 @@ I worked with data from 5,050 used cars listed in India. The dataset had:
 - Transmission type (Manual vs Automatic)
 - Number of previous owners
 - Location
-- **Price** - this is what I'm trying to predict
+- **Price** - this is what 
 
 **Price range:** ₹50,000 to ₹50,00,000 (that's like $600 to $60,000 USD)
 
