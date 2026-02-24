@@ -8,7 +8,7 @@ A machine learning project I built to predict used car prices in India. This was
 
 If you're buying or selling a used car, how do you know if the price is fair? That's the problem I tried to solve. I built a model that predicts car prices based on features like brand, age, fuel type, and how much it's been driven.
 
-Turns out, my Random Forest model got pretty good - around 92% accuracy!
+Turns out, my Random Forest model got pretty good around 92% accuracy!
 
 ---
 
