@@ -24,7 +24,7 @@ car-price-prediction/
 ├── images/                       # Plots and visualizations
 │   ├── eda/                     
 │   └── model_performance/       
-├── car_price_prediction.ipynb  # Main notebook with all the code
+├── car_price_prediction.ipynb    # Main notebook with all the code
 └── README.md                     
 ```
 
