@@ -21,7 +21,7 @@ car-price-prediction/
 │   ├── raw/                      # Original CSV file
 │   └── processed/                # Cleaned data, train/test splits
 ├── models/                       # All my trained models saved here
-├── images/                       # Plots and visualizations
+├── images/                       # Plots and visualization
 │   ├── eda/                     
 │   └── model_performance/       
 ├── car_price_prediction.ipynb  # Main notebook with all the code
