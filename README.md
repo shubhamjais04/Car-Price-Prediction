@@ -49,8 +49,7 @@ I worked with data from 5,050 used cars listed in India. The dataset had:
 
 ## What I Found (EDA Insights)
 
-Before building any models, I spent a lot of time just exploring the data. Here's what I discovered:
-
+Before building any models, I spent a lot of time just exploring the data. 
 **1. Price Distribution:**
 Most cars are in the ₹3-7 lakh range (around $4,000-$8,000). Makes sense for the Indian market.
 
